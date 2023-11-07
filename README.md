@@ -1,4 +1,4 @@
-# Spotify 
+# HarmoniXplorer 
 Doing some analytical preprocesses and implementing some supervised and unsupervised algorithms on the Spotify dataset.
 
 ## Dataset
